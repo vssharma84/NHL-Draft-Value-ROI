@@ -82,7 +82,7 @@ For steals and busts, step 3 also separates forwards from defensemen, and the la
 
 ![Share of NHL players by draft round](%282%29%20Draft%20Rounds%20of%20Players.png)
 
-Round 1 produced 39.0% of all the players who reached 200 games. The other six rounds produced the rest.
+The table and the pie measure different things. The table shows the chance that a player picked in each round makes the NHL, so each round has its own rate and the rates do not add up to 100%. The pie shows how all 697 players who reached 200 games are split across the rounds, so those shares do add up to 100%. Round 1 players make the NHL most often (69.7%) and supply 39.0% of all NHL players. The other six rounds supply the remaining 61.0%.
 
 ### Does the 200-game cutoff treat newer drafts fairly?
 
